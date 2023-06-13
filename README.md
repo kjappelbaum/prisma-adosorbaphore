@@ -23,3 +23,4 @@ fastcore
 ## Notebooks 
 
 - `01_initial_model.ipynb` builds and initial classifier on a broad feature set 
+- `02_prototypes.ipynb`: performs the maximum-mean discrepancy analysis
