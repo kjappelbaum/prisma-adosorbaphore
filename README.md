@@ -7,11 +7,18 @@
 mofchecker 
 pandas 
 git+https://github.com/kjappelbaum/MMD-critic.git
+pycm 
+shap
+scikit-learn
+fastcore
 ```
 
 ## Data
 
 - `data/CIF-Files` contains the structure files of all structures we considered
+- `data/Cement_Storage_UK_TSA.csv` contains the KPIs used as labels in the ML approach
+- `data/features` contains the features computed using `mofdscribe`
+- `data/ph_feat_new_2` contains persistence homology features computed with optimized settings
 
 ## Notebooks 
 

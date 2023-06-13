@@ -1,0 +1,13 @@
+#!/bin/bash
+#SBATCH --job-name=RSM2218
+#SBATCH --output=RSM2218.out
+#SBATCH --error=RSM2218.err
+#SBATCH --time=0:30:00
+#SBATCH --ntasks-per-node=1
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=4GB
+
+source /home/kjablonk/miniconda3/etc/profile.d/conda.sh
+conda activate mofdscribe
+
+python featurize_core.py --infile CIF-Files/RSM2218.cif --outdir features 
