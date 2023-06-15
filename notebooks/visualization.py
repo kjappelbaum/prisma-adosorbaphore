@@ -44,7 +44,8 @@ def show_atoms(atoms, filename, zoom=1.0, repeat_uc=(2, 2, 2), show_cell=True, l
     ase_view.config.atom_color_array = 'color_array'
     ase_view.config.atom_opacity_by = 'opacity_array'
     ase_view.config.atom_show_label = False #True
-    ase_view.config.atom_stroke_width = 0.2
+    ase_view.config.atom_stroke_width = 0.05
+    ase_view.config.atom_stroke_opacity = 0.1
     ase_view.config.show_bonds = show_bonds
     ase_view.config.bond_radii_scale =bond_radii_scale
     if lighten_by_depth:

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_N2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.50371000
+_cell_length_b   11.50654000
+_cell_length_c   15.22743000
+_cell_angle_alpha   109.64693000
+_cell_angle_beta   109.61211000
+_cell_angle_gamma   96.53630000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   N2O5
+_chemical_formula_sum   'N2 O5'
+_cell_volume   1728.79116020
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  N  N0  1  0.73931000  0.82026000  0.26538000  1
+  N  N1  1  0.51486000  0.95984000  0.16822000  1
+  O  O2  1  0.85917000  0.29165000  0.36814000  1
+  O  O3  1  0.77647000  0.11481000  0.38434000  1
+  O  O4  1  0.70319000  0.85593000  0.04972000  1
+  O  O5  1  0.95012000  0.04989000  0.24936000  1
+  O  O6  1  0.70889000  0.14298000  0.13297000  1

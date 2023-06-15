@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Al
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.92849000
+_cell_length_b   12.10587000
+_cell_length_c   12.10468000
+_cell_angle_alpha   75.90722000
+_cell_angle_beta   60.43189000
+_cell_angle_gamma   60.44390000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al
+_chemical_formula_sum   Al4
+_cell_volume   1322.49788468
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.19208000  0.99999000  0.61605000  1
+  Al  Al1  1  0.80806000  0.99997000  0.38385000  1
+  Al  Al2  1  0.94199000  0.11614000  0.49993000  1
+  Al  Al3  1  0.55814000  0.88377000  0.50008000  1

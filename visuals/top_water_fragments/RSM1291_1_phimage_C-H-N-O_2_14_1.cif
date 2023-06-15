@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_HC2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.50371000
+_cell_length_b   11.50654000
+_cell_length_c   15.22743000
+_cell_angle_alpha   109.64693000
+_cell_angle_beta   109.61211000
+_cell_angle_gamma   96.53630000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HC2O
+_chemical_formula_sum   'H1 C2 O1'
+_cell_volume   1728.79116020
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.10336000  0.51172000  0.48312000  1
+  C  C1  1  0.11702000  0.69292000  0.46802000  1
+  C  C2  1  0.16455000  0.76803000  0.58115000  1
+  O  O3  1  0.14083000  0.70835000  0.63186000  1
